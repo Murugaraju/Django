@@ -1,4 +1,4 @@
-FROM r082326/djangocim:latest
+FROM r082326/djanocim:latest
 
 COPY . /Django
 
